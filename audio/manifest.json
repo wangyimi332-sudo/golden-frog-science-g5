@@ -1,0 +1,242 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "voice": "af_heart",
+  "license": "Apache-2.0",
+  "notice": "AI-generated narration, not a human recording.",
+  "clips": [
+    {
+      "id": "1.1",
+      "file": "1.1.mp3",
+      "duration": 46.33,
+      "text": "Cells. A cell is the smallest unit that can carry out life processes. Plant and animal cells share many parts, but their structures are not identical. Imagine two microscope records. Sample A has a rigid outer wall and green chloroplasts. Sample B has a membrane and a nucleus but no visible wall. Both records describe cells. A useful comparison asks which features are shared and which distinguish the samples. A missing feature in a blurry image is not always evidence that the feature is absent. A nucleus occurs in both typical plant and animal cells. The wall and chloroplasts provide stronger distinguishing evidence. Not every plant cell contains chloroplasts, so compare several features."
+    },
+    {
+      "id": "1.2",
+      "file": "1.2.mp3",
+      "duration": 43.14,
+      "text": "From Cells to Organisms. In a multicellular organism, specialized cells work in tissues. Tissues form organs, and organs cooperate in systems. A muscle cell can shorten. Many muscle cells work together in muscle tissue, and different tissues make up the heart. The heart belongs to a system that moves blood. Describing these levels explains why a single cell cannot perform every task of the whole organism. A model should show relationships as well as names. An organ combines tissues with different jobs. Those tissues contain cells. The heart also works with vessels in an organ system; being part of a system does not stop it from being an organ."
+    },
+    {
+      "id": "1.3",
+      "file": "1.3.mp3",
+      "duration": 44.89,
+      "text": "Diversity of Organisms. Scientists classify organisms by shared features. A useful group is supported by several observations, not just a familiar name or appearance. A field notebook describes an animal that lives in water, breathes air, and feeds its young milk. Another animal lives in water but has gills. Habitat alone would put them together, yet their body features support different groups. Classification is an argument based on selected evidence, and new observations may change it. A habitat is shared by unrelated groups. Milk production and hair are more useful mammal features. Combine observations rather than relying on one familiar appearance."
+    },
+    {
+      "id": "2.1",
+      "file": "2.1.mp3",
+      "duration": 45.73,
+      "text": "Vascular Plants. Vascular plants contain tissues that transport materials. Different plants also reproduce with seeds or spores, so a single feature may not settle a classification. A fern has transport tissues but reproduces with spores. A flowering bean plant has transport tissues and produces seeds. Moss lacks the vascular tissues of a bean plant. These comparisons require two questions: how are materials transported, and how does the plant reproduce? Answering only one leaves part of the classification unresolved. Ferns show that vascular tissue and seed production are separate features. A classification that uses both features is more informative than one based only on flowers."
+    },
+    {
+      "id": "2.2",
+      "file": "2.2.mp3",
+      "duration": 41.35,
+      "text": "Plant Transport Systems. Roots take in water and minerals. Xylem carries these materials upward, while phloem moves sugars made in leaves to other parts of the plant. A class puts a cut stem in colored water. Later, color appears along narrow routes in the stem. This supports a pathway for water movement but does not show the route taken by sugar. Sugar can move from a source, such as a leaf, to a growing or storage region. Its direction depends on where it is needed. The dye follows the water pathway. It does not trace sugar. Xylem and phloem have different transport roles, and phloem transport is not simply always downward."
+    },
+    {
+      "id": "2.3",
+      "file": "2.3.mp3",
+      "duration": 49.12,
+      "text": "Photosynthesis and Respiration. Photosynthesis uses light energy to make sugar from water and carbon dioxide. Plants also carry out cellular respiration to release usable energy from food. Two similar plants receive equal water but different light. Over time, their growth differs. Light is one possible explanation, but a fair comparison also controls temperature and plant size. Photosynthesis stores energy in sugar; respiration makes energy from food available for cell activities. Plants respire both in daylight and at night. Making sugar and releasing usable energy from food are different processes. Light supplies energy for photosynthesis; it is not a material input like water or carbon dioxide."
+    },
+    {
+      "id": "3.1",
+      "file": "3.1.mp3",
+      "duration": 42.01,
+      "text": "The Human Body. The body has connected systems rather than independent machines. Oxygen, nutrients, wastes, and messages move between organs and cells. During activity, muscles require oxygen and nutrients. Air enters the lungs, oxygen moves into blood, and blood carries it toward tissues. Digestion supplies nutrients to the same transport network. A diagram with separate boxes is useful only if it also shows the materials that connect those boxes. Lungs exchange gases and circulation transports them. Systems cooperate; naming one organ does not explain the full pathway from air to body cells."
+    },
+    {
+      "id": "3.2",
+      "file": "3.2.mp3",
+      "duration": 43.35,
+      "text": "The Digestive System. Digestion breaks food into materials that the body can absorb. Most nutrients enter the blood through the small intestine, linking digestion with circulation. Chewing makes food pieces smaller, while digestive substances help break large food molecules into smaller ones. These processes are not the same as absorption. In the small intestine, many nutrients cross into the body’s transport systems. The large intestine absorbs water and helps form waste, so its role differs from that of the small intestine. Chewing reduces particle size; absorption moves nutrients across a body surface. Both are needed, but they are distinct steps."
+    },
+    {
+      "id": "3.3",
+      "file": "3.3.mp3",
+      "duration": 46.16,
+      "text": "The Respiratory System. When the diaphragm contracts, the chest cavity expands and air moves into the lungs. In tiny air sacs, oxygen enters the blood and carbon dioxide leaves it. A breathing model uses a flexible sheet to change the volume of a container. Pulling the sheet down increases the space inside, so air enters. This resembles part of the diaphragm’s action, although a bottle does not reproduce every feature of a chest. At the lungs, gas exchange and air movement are related but different processes. Models explain selected relationships. A flexible sheet can demonstrate a volume change, but a bottle is not a complete anatomical model and does not show all gas exchange processes."
+    },
+    {
+      "id": "3.4",
+      "file": "3.4.mp3",
+      "duration": 39.38,
+      "text": "The Circulatory System. The heart pumps blood through vessels. Arteries carry blood away from the heart; veins return it, and capillaries allow exchange with tissues. A diagram colors some vessels red and others blue. These colors represent differences in the model, not the actual color of vessels in the body. Define an artery by the direction of blood flow away from the heart. Defining it only by oxygen content would fail for the artery leading to the lungs. Direction defines an artery. Oxygen content varies with the circuit. A model’s color key should not replace the scientific definition."
+    },
+    {
+      "id": "3.5",
+      "file": "3.5.mp3",
+      "duration": 42.51,
+      "text": "The Excretory System. The kidneys filter blood and help the body remove some wastes while regulating water. Urine then travels through the urinary system before leaving the body. The kidneys filter blood and then adjust which substances are kept or removed. This is more selective than simply pouring water through a sieve. Urine travels from the kidneys through the ureters, is stored in the bladder, and leaves through the urethra. The model describes functions, not advice about anyone’s health. Filtration is only part of kidney function. Reabsorption and other processes help regulate water and dissolved substances; the bladder stores the urine produced."
+    },
+    {
+      "id": "4.1",
+      "file": "4.1.mp3",
+      "duration": 42.42,
+      "text": "Earth: The Blue Planet. Most water on Earth is salty. Much of its fresh water is frozen or underground, so the water available to communities is only a small part of the whole. Imagine 100 counters representing all Earth’s water. Nearly all would belong to salt water, while only a few would represent fresh water. Even those few would not all represent rivers and lakes. A community must consider location, quality, access, and treatment rather than total global water alone. Total water is not the same as usable local supply. Storage, quality, infrastructure, and demand affect whether water can meet a community’s needs."
+    },
+    {
+      "id": "4.2",
+      "file": "4.2.mp3",
+      "duration": 41.5,
+      "text": "The Water Cycle. Sunlight powers evaporation. Water vapor cools and condenses into droplets; precipitation returns water to land and oceans. Water in a puddle can enter the air without boiling. Later, water vapor may condense into tiny droplets when conditions allow. Water can also soak into soil or flow over land. The cycle has many routes and stores, so there is no single starting point that every drop must follow. The Sun supplies energy for evaporation, while gravity helps move water downward. Storage and multiple routes make the model more useful without implying every drop follows the same sequence."
+    },
+    {
+      "id": "4.3",
+      "file": "4.3.mp3",
+      "duration": 44.01,
+      "text": "Fresh Water Resources. Fresh water can be stored in reservoirs and underground aquifers. A watershed connects land and water: pollution upstream can affect places downstream. A stream connects an uphill farm with a downstream reservoir. After rain, runoff may carry soil and dissolved substances into the stream. A map of the watershed helps investigators decide where to sample. One dirty sample downstream does not by itself identify a single source; upstream comparisons are needed. A connected watershed suggests possible routes, not proof of a particular source. Sampling across locations and times helps distinguish competing explanations."
+    },
+    {
+      "id": "4.4",
+      "file": "4.4.mp3",
+      "duration": 63.07,
+      "text": "California’s Water Supply. A town needs more fresh water than its usual supply can provide during a dry season. A reservoir stores water, and an aqueduct carries it toward the town. Moving water does not create new water. The council is comparing repaired leaks, cleaned used water, and more river withdrawal. Each choice has effects on people and the wider environment. In this classroom model, weekly demand is 120 units and supply is 100. Repairing leaks reduces demand by 12; suitable reuse adds 10 to supply. Extra river withdrawal adds 30. These are invented planning values, not a real town’s measurements. A balanced budget is necessary, but ecological effects, treatment quality, and cost also need investigation. A plus B closes the modeled gap with a 2-unit margin. It does not establish real treatment performance, affordability, or ecological safety; these require additional evidence."
+    },
+    {
+      "id": "5.1",
+      "file": "5.1.mp3",
+      "duration": 41.99,
+      "text": "Earth’s Atmosphere. The atmosphere is a layer of gases around Earth. Air pressure and temperature change with altitude, so a measurement needs both a value and a location. Two school sensors record air pressure at different elevations. The higher sensor records less pressure. To interpret the comparison, students check that both instruments use the same units and were read at similar times. They avoid claiming that elevation is the only factor affecting every pressure reading. Consistent units, calibration, and timing make observations more comparable. Pressure generally decreases with altitude, but weather and measurement conditions also matter."
+    },
+    {
+      "id": "5.2",
+      "file": "5.2.mp3",
+      "duration": 44.2,
+      "text": "Air Currents and Wind. Uneven heating can make warm air rise and cooler air move in. This movement helps create wind, although local landforms and larger circulation patterns also matter. On a sunny day, land beside water may warm more rapidly. Warm air over land rises, while cooler air can move toward land near the surface. Higher air movement helps complete a circulation. This local model does not include every influence, such as large-scale winds, terrain, or changing weather. Uneven heating supports a local circulation, but other influences can strengthen, weaken, or redirect it. A model supports a conditional prediction, not a guarantee."
+    },
+    {
+      "id": "5.3",
+      "file": "5.3.mp3",
+      "duration": 45.5,
+      "text": "Oceans and Air Temperature. Land and water often warm and cool at different rates. Ocean currents also move energy, helping explain why nearby places can have different temperatures. In an invented equal-heating investigation, land changes from 20 to 32 degrees Celsius while water changes from 20 to 24. The temperature changes are 12 and 4 degrees. Students compare changes rather than only final temperatures. Repeating the investigation and controlling sample size would make the conclusion stronger. The modeled temperature changes support a limited comparison. They do not establish universal weather claims or explain all features of a climate."
+    },
+    {
+      "id": "5.4",
+      "file": "5.4.mp3",
+      "duration": 44.28,
+      "text": "Severe Weather. Severe weather can form when air masses, moisture, and energy interact. Forecasts describe conditions and uncertainty, not a guaranteed event at every location. A weather map shows a front approaching a moist region. The front is a boundary between air masses, and rising air may support clouds and precipitation. The map does not show every local condition. A careful report explains what could happen and identifies which additional observations would improve the forecast. Moisture, temperature, and movement affect cloud and rain formation. A front map is useful evidence but cannot guarantee a particular severe event at a specific address."
+    },
+    {
+      "id": "5.5",
+      "file": "5.5.mp3",
+      "duration": 43.81,
+      "text": "Predicting the Weather. Weather forecasting combines observations such as pressure, temperature, wind, and clouds with models. A useful forecast states the evidence and how confident we are. A station records falling pressure, increasing cloud cover, and a wind shift. A student predicts a change in weather and explains the observations behind it. Another predicts an exact rainfall amount without supporting data. Good forecasts can be checked later, allowing people to learn which evidence was useful. A justified forecast links multiple observations to a plausible outcome and reports uncertainty. Specific numbers require suitable evidence, not confidence alone."
+    },
+    {
+      "id": "6.1",
+      "file": "6.1.mp3",
+      "duration": 40.96,
+      "text": "The Sun. The Sun is a star that supplies light and heat to Earth. Its scale is enormous, so scientists use models and special distance units when comparing the solar system. A classroom image makes the Sun and Earth easy to see on the same page. Their displayed sizes are not their real size ratio. The Sun is a star powered by nuclear fusion; Earth receives some of its emitted energy. A visual model should say whether it preserves size, distance, both, or neither. Visibility is not scale accuracy. A diagram may help identify objects while distorting their relative sizes or distances."
+    },
+    {
+      "id": "6.2",
+      "file": "6.2.mp3",
+      "duration": 47.42,
+      "text": "The Structure of the Solar System. The solar system includes the Sun, eight planets, dwarf planets, moons, asteroids, and comets. A diagram can show order, but one page cannot usually preserve both size and distance to scale. A modern solar-system directory lists eight planets and also includes dwarf planets such as Pluto. This corrects older materials that used a different planet category. The four inner planets are rocky; the outer planets are much larger. Position order can be learned separately from true spacing, which is far from uniform. NASA lists eight planets. Pluto is a dwarf planet. Pictures often compress the enormous and unequal distances between objects, so equal spacing in a drawing is not evidence."
+    },
+    {
+      "id": "6.3",
+      "file": "6.3.mp3",
+      "duration": 44.27,
+      "text": "Gravity and Orbit. Gravity pulls an orbiting body inward while its motion carries it forward. An orbit results from both effects, so the path is not simply a straight line toward or away from the Sun. Imagine a moving object without a sideways deflecting force: its motion would continue along a straight path. Gravity changes the direction of an orbiting object’s motion continuously. A circular arrow drawn around the Sun shows a path, not a physical rail. Different speeds and distances can produce different orbital paths. Gravity provides an inward acceleration while the body has forward motion. The drawn orbit is a representation of a path, not a structure in space."
+    },
+    {
+      "id": "7.1",
+      "file": "7.1.mp3",
+      "duration": 44.56,
+      "text": "Properties of Matter. Matter has measurable properties including mass and volume. Density compares mass with volume; weight depends on gravity and is not the same as mass. Two invented samples each occupy 10 cubic centimeters. Sample A has a mass of 20 grams; B has a mass of 50 grams. Their densities are 2 and 5 grams per cubic centimeter. Comparing mass alone is fair here only because the volumes are equal. Equal mass would require a different comparison. Density is mass divided by volume. B has 5 g/cm³ compared with A’s 2 g/cm³. Equal volume alone does not imply equal density."
+    },
+    {
+      "id": "7.2",
+      "file": "7.2.mp3",
+      "duration": 44.45,
+      "text": "Elements. An element is made of one kind of atom. A visible material may contain one element, many elements, or compounds, so appearance alone cannot reveal its atomic composition. A shiny sample may look uniform even when it contains several substances. An element is defined by its atoms, not by shine or color. Iron and oxygen are elements; water is a compound containing hydrogen and oxygen chemically joined. A sample’s name and appearance need to be connected to evidence about composition. An element consists of one kind of atom. Some elements are gases, and appearance alone does not establish a material’s atomic composition."
+    },
+    {
+      "id": "7.3",
+      "file": "7.3.mp3",
+      "duration": 41.03,
+      "text": "Classifying Elements. The periodic table organizes elements by atomic number and reveals patterns in properties. A pattern can guide a prediction, but it should be checked with evidence. In the periodic table, atomic number counts protons. Elements in the same group often have related chemical properties. This pattern supports predictions, but it is not a promise that all their physical properties or uses are identical. A simplified table removes detail and should make those omissions clear. Patterns help generate predictions. Testing and additional data are still needed for specific properties and applications."
+    },
+    {
+      "id": "7.4",
+      "file": "7.4.mp3",
+      "duration": 43.42,
+      "text": "Mixtures. A mixture combines substances without creating one new substance. In a solution, a solute dissolves in a solvent; physical properties can help separate the parts. A sample contains sand, dissolved salt, and water. Filtering can retain sand, but dissolved salt passes through with the water. Evaporation can then leave salt behind. The order of methods matters because each method uses a different physical property. Recovering the water would require collecting and condensing vapor. Filtration depends on particle size relative to the filter. Dissolved salt remains in the filtrate; evaporation or distillation uses different properties."
+    },
+    {
+      "id": "7.5",
+      "file": "7.5.mp3",
+      "duration": 44.12,
+      "text": "Compounds. A compound contains elements chemically joined in a fixed composition. A mixture keeps its components together physically, so a separation test can provide useful evidence. A jar of iron pieces and sulfur can be treated as a mixture if its components remain physically combined. A compound is different: elements are chemically joined in a fixed composition. The same element names can appear in both descriptions, so the names alone do not settle the question. Evidence about bonding and separation matters. A mixture can contain several elements or compounds without becoming one new compound. A compound has chemically joined components in a defined composition."
+    },
+    {
+      "id": "8.1",
+      "file": "8.1.mp3",
+      "duration": 43.91,
+      "text": "Chemical Reactions. In a chemical reaction, reactants become products with different properties. Bubbles, color changes, or temperature changes can be clues, but a single clue needs careful interpretation. Bubbles appear when water boils and when some substances react. The same visible clue can therefore have different explanations. A stronger chemical-change claim uses several observations and tests for new substances. Investigators also distinguish an open container, which can lose gas, from a closed system when discussing mass. An observation may have more than one cause. Identify new substances and consider system boundaries before concluding what changed."
+    },
+    {
+      "id": "8.2",
+      "file": "8.2.mp3",
+      "duration": 43.17,
+      "text": "Metals and Alloys. Metals and alloys have different combinations of strength, conductivity, and resistance to corrosion. Engineers choose materials according to a purpose and its trade-offs. A fictional design table rates two materials. A costs 4 units and scores 2 for corrosion resistance; B costs 7 and scores 5. Both meet the strength requirement. B may suit a salty coastal setting, but purchase price is not the only cost. Maintenance and useful lifetime could change the final comparison. The modeled table supports a trade-off between cost and corrosion resistance. It does not measure every environmental or lifetime cost."
+    },
+    {
+      "id": "8.3",
+      "file": "8.3.mp3",
+      "duration": 46.12,
+      "text": "Salts. Acids and bases can be studied with indicators and the pH scale. A substance’s name does not by itself establish its pH; measurements and reaction evidence matter. In a simulated aqueous test at about room temperature, samples show pH values of 3, 7, and 10. These support acidic, neutral, and basic classifications. A pH reading does not identify every substance present or establish whether it is safe to touch or drink. The activity uses records rather than mixing unknown household products. A pH reading supports an acid/base classification under the stated conditions. It does not by itself determine composition or safety."
+    },
+    {
+      "id": "humanities-1",
+      "file": "humanities-1.mp3",
+      "duration": 24.8,
+      "text": "What should a drawing show?. Two students look at the same cell. One draws every dark spot; the other labels only structures that can be observed clearly. A useful scientific drawing should help another person check the observation, so the students discuss which details are evidence and which may be shadows or mistakes. Which drawing would help a reader test a claim, and what detail would you ask both students to check?"
+    },
+    {
+      "id": "humanities-2",
+      "file": "humanities-2.mp3",
+      "duration": 24.86,
+      "text": "Plants, food, and choices. A school garden has little space. Students can grow one large crop or several smaller crops. They must think about how plants move water and make food, while also considering what the community wants to eat. Science informs the plan, but it does not decide every value for the group. Which part of the choice can you investigate with measurements, and which part needs a conversation?"
+    },
+    {
+      "id": "humanities-3",
+      "file": "humanities-3.mp3",
+      "duration": 25.36,
+      "text": "A poster for the community. A student group wants to explain how body systems work together. They find a striking picture, but it leaves out the path that oxygen takes from lungs to cells. Before making a public poster, they decide to check each arrow and separate a scientific explanation from advice about personal health. What evidence should the group check before sharing the poster, and what claim is outside this model?"
+    },
+    {
+      "id": "humanities-4",
+      "file": "humanities-4.mp3",
+      "duration": 23.33,
+      "text": "A town meeting about water. Imagine a meeting with people from homes, farms, and a river group. Everyone can ask for better measurements of water use. They may still disagree about which needs should come first. A fair discussion states the data, its limits, and whose needs are represented. Name one measurable question and one value question that the town needs to discuss."
+    },
+    {
+      "id": "humanities-5",
+      "file": "humanities-5.mp3",
+      "duration": 25.15,
+      "text": "Who reads a forecast?. A forecast says rain is possible tomorrow. A festival organizer wants to know when it may start; a farmer wants to know how much may fall. Both read the same forecast but need different details. An honest report explains what observations support the prediction and what remains uncertain. How would you write two different sentences for these readers without claiming certainty?"
+    },
+    {
+      "id": "humanities-6",
+      "file": "humanities-6.mp3",
+      "duration": 23.5,
+      "text": "When a category changes. People use categories to organize objects in space. A model may be useful for one question and misleading for another: planet order can be clear while true distances are distorted. Scientists may revise a category when definitions and evidence are reconsidered. What does the model show well, and what would you need before changing a classification?"
+    },
+    {
+      "id": "humanities-7",
+      "file": "humanities-7.mp3",
+      "duration": 23.78,
+      "text": "A shared language for matter. Two research groups describe the same sample using different everyday names. Their results are hard to compare until they report measured properties and clear definitions. A classification system helps people share evidence across places, but the labels must be applied carefully. Which two measurements would make their descriptions easier to compare?"
+    },
+    {
+      "id": "humanities-8",
+      "file": "humanities-8.mp3",
+      "duration": 25.37,
+      "text": "The life of a material. A design team needs a strong container. One material resists corrosion; another is easier to repair and reuse. A responsible choice considers performance, useful life, and what happens after the container is no longer needed. The best answer depends on evidence that may still be missing. Which property would you test first, and what wider effect should the team investigate?"
+    }
+  ]
+}
